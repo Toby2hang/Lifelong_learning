@@ -1,8 +1,8 @@
-好的，以下是关于lifelong learning的awesome repository：
+
 
 # Lifelong Learning
 
-本仓库是关于终身学习（Lifelong Learning）的资源整理，包括终身学习的定义、重要综述论文、相关研究论文、代码等。终身学习是指在不断的学习过程中，保持知识的更新和积累，以适应不断变化的环境和需求。本仓库旨在帮助研究者了解和深入研究终身学习。
+本仓库是关于终身学习（Lifelong Learning）的资源整理，包括终身学习的定义、重要综述论文、相关研究论文、代码等。
 
 ## Table of Contents
 
