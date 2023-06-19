@@ -61,12 +61,7 @@
 
 ## Code
 
-- [Learning without Forgetting (LwF) PyTorch](https://github.com/rahaf-aljundi/LwF-Cross-Task)（2016）
+
 - [iCaRL: Incremental Classifier and Representation Learning](https://github.com/srebuffi/iCaRL)（2017）
 - [Continual Learning with Deep Generative Replay (C-GAN)](https://github.com/facebookresearch/agem)（2017）
 - [Continual Learning with Deep Generative Models (VCL)](https://github.com/nvcuong/variational-continual-learning)（2019）
-- [Continual Reinforcement Learning with Diversity Exploration and Adversarial Self-Correction (CRADLE)](https://github.com/ElementAI/cradle)（2019）
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
